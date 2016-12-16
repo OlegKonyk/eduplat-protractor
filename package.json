@@ -1,0 +1,22 @@
+{
+  "name": "eduplat-protractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegKonyk/eduplat-protractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegKonyk/eduplat-protractor/issues"
+  },
+  "homepage": "https://github.com/OlegKonyk/eduplat-protractor#readme",
+  "devDependencies": {
+    "jasmine-reporters": "^2.2.0"
+  }
+}
